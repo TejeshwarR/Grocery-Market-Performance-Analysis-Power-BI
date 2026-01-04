@@ -4,7 +4,7 @@
 This project delivers an **end-to-end Grocery Market Performance Analysis using Power BI**, backed by a **well-structured star-schema data model**. The dashboard is designed to track **transactions, revenue, profit, margins, returns, geographic performance, and target achievement** at both operational and executive levels.
 
 The analysis mirrors a **real-world retail BI implementation**, combining transactional fact data with **product, customer, store, region, return, and calendar dimensions**.
-<img width="1390" height="781" alt="image" src="https://github.com/user-attachments/assets/a2ef7cb7-0aed-4aaf-b5f5-ce489b3ecf31" /><img width="1390" height="781" alt="image" src="https://github.com/user-attachments/assets/77a0a6ae-32cf-436f-a7fd-1e886de430fa" />
+<img width="1390" height="781" alt="image" src="https://github.com/user-attachments/assets/a2ef7cb7-0aed-4aaf-b5f5-ce489b3ecf31" />
 <img width="1372" height="776" alt="image" src="https://github.com/user-attachments/assets/55f24321-cf30-45ce-8871-4436787d3ec5" />
 <img width="1027" height="708" alt="image" src="https://github.com/user-attachments/assets/07015178-9b4e-4d98-bbef-d11f2c41980b" />
 
